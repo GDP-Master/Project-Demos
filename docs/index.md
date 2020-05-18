@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+Share what you've been working on by adding a link to the shared document.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
